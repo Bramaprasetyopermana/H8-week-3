@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "cnxhqpgy",
+    "password": "RSvaO1f1TyPonFj7Li4eDrQ9wowAenmM",
+    "database": "cnxhqpgy",
+    "host": "elmer.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
